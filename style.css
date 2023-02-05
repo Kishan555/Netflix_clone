@@ -30,9 +30,9 @@ body{
     height: 140%;
 }
 .language_drop_down{
-    background: black;
+    background: transparent;
     border:none;
-    color:red;
+    color: white;
 }
 .dropdown_container{
     border: 1px solid white;
