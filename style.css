@@ -34,10 +34,6 @@ body{
     border:none;
     color: white;
 }
-.dropdown_options{
-    background-color: black;
-    color: white;
-}
 .dropdown_container{
     border: 1px solid white;
     padding: 0.4rem;
