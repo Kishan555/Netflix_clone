@@ -32,7 +32,7 @@ body{
 .language_drop_down{
     background: transparent;
     border:none;
-    color:white;
+    color:black;
 }
 .dropdown_container{
     border: 1px solid white;
